@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="400.268" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="272.895" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\2327184\OneDrive - Cognizant\Documents\eclipse extracted\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\2327184\AppData\Local\Temp\surefire5011356099417170877\surefirebooter-20240416114607155_3.jar C:\Users\2327184\AppData\Local\Temp\surefire5011356099417170877 2024-04-16T11-46-07_020-jvmRun1 surefire-20240416114607155_1tmp surefire_0-20240416114607155_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\2327184\AppData\Local\Temp\surefire10416351465889343030\surefirebooter-20240416221449955_3.jar C:\Users\2327184\AppData\Local\Temp\surefire10416351465889343030 2024-04-16T22-14-49_798-jvmRun1 surefire-20240416221449955_1tmp surefire_0-20240416221449955_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\2327184\Downloads\Identify Courses 1\Identifycourses\target\test-classes;C:\Users\2327184\Downloads\Identify Courses 1\Identifycourses\target\classes;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-java\4.17.0\selenium-java-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-api\4.17.0\selenium-api-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.17.0\selenium-chrome-driver-4.17.0.jar;C:\Users\2327184\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.17.0\selenium-chromium-driver-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-json\4.17.0\selenium-json-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.17.0\selenium-manager-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v119\4.17.0\selenium-devtools-v119-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v120\4.17.0\selenium-devtools-v120-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v121\4.17.0\selenium-devtools-v121-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.17.0\selenium-devtools-v85-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.17.0\selenium-edge-driver-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.17.0\selenium-firefox-driver-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-http\4.17.0\selenium-http-4.17.0.jar;C:\Users\2327184\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.17.0\selenium-ie-driver-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.17.0\selenium-remote-driver-4.17.0.jar;C:\Users\2327184\.m2\repository\com\google\guava\guava\33.0.0-jre\guava-33.0.0-jre.jar;C:\Users\2327184\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\2327184\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\2327184\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\2327184\.m2\repository\org\checkerframework\checker-qual\3.41.0\checker-qual-3.41.0.jar;C:\Users\2327184\.m2\repository\com\google\errorprone\error_prone_annotations\2.23.0\error_prone_annotations-2.23.0.jar;C:\Users\2327184\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.23.1-alpha\opentelemetry-semconv-1.23.1-alpha.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-api\1.34.1\opentelemetry-api-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-context\1.34.1\opentelemetry-context-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.34.1\opentelemetry-exporter-logging-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.34.1\opentelemetry-sdk-common-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.34.1\opentelemetry-sdk-extension-autoconfigure-spi-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.34.1\opentelemetry-sdk-extension-autoconfigure-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.34.1-alpha\opentelemetry-api-events-1.34.1-alpha.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.34.1\opentelemetry-sdk-trace-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.34.1\opentelemetry-sdk-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.34.1\opentelemetry-sdk-metrics-1.34.1.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.34.1-alpha\opentelemetry-extension-incubator-1.34.1-alpha.jar;C:\Users\2327184\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.34.1\opentelemetry-sdk-logs-1.34.1.jar;C:\Users\2327184\.m2\repository\net\bytebuddy\byte-buddy\1.14.11\byte-buddy-1.14.11.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-os\4.17.0\selenium-os-4.17.0.jar;C:\Users\2327184\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.17.0\selenium-safari-driver-4.17.0.jar;C:\Users\2327184\.m2\repository\org\seleniumhq\selenium\selenium-support\4.17.0\selenium-support-4.17.0.jar;C:\Users\2327184\.m2\repository\org\apache\poi\poi\5.2.4\poi-5.2.4.jar;C:\Users\2327184\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\2327184\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\2327184\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\2327184\.m2\repository\commons-io\commons-io\2.13.0\commons-io-2.13.0.jar;C:\Users\2327184\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\2327184\.m2\repository\org\apache\poi\poi-ooxml\5.2.4\poi-ooxml-5.2.4.jar;C:\Users\2327184\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.4\poi-ooxml-lite-5.2.4.jar;C:\Users\2327184\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\2327184\.m2\repository\org\apache\commons\commons-compress\1.24.0\commons-compress-1.24.0.jar;C:\Users\2327184\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\2327184\.m2\repository\org\testng\testng\7.9.0\testng-7.9.0.jar;C:\Users\2327184\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\2327184\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\2327184\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\2327184\.m2\repository\org\apache\logging\log4j\log4j-core\3.0.0-alpha1\log4j-core-3.0.0-alpha1.jar;C:\Users\2327184\.m2\repository\org\apache\logging\log4j\log4j-plugins\3.0.0-alpha1\log4j-plugins-3.0.0-alpha1.jar;C:\Users\2327184\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar;C:\Users\2327184\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar;C:\Users\2327184\.m2\repository\com\fasterxml\woodstox\woodstox-core\6.5.0\woodstox-core-6.5.0.jar;C:\Users\2327184\.m2\repository\org\codehaus\woodstox\stax2-api\4.2.1\stax2-api-4.2.1.jar;C:\Users\2327184\.m2\repository\org\apache\logging\log4j\log4j-api\3.0.0-alpha1\log4j-api-3.0.0-alpha1.jar;C:\Users\2327184\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\2327184\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\2327184\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\2327184\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\2327184\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\2327184\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\2327184\.m2\repository\io\cucumber\cucumber-java\7.15.0\cucumber-java-7.15.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\cucumber-core\7.15.0\cucumber-core-7.15.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\cucumber-gherkin\7.15.0\cucumber-gherkin-7.15.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.15.0\cucumber-gherkin-messages-7.15.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\tag-expressions\6.0.0\tag-expressions-6.0.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\cucumber-expressions\17.0.1\cucumber-expressions-17.0.1.jar;C:\Users\2327184\.m2\repository\io\cucumber\datatable\7.15.0\datatable-7.15.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\cucumber-plugin\7.15.0\cucumber-plugin-7.15.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\docstring\7.15.0\docstring-7.15.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\2327184\.m2\repository\io\cucumber\ci-environment\10.0.0\ci-environment-10.0.0.jar;C:\Users\2327184\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\2327184\.m2\repository\io\cucumber\cucumber-testng\7.15.0\cucumber-testng-7.15.0.jar;C:\Users\2327184\.m2\repository\tech\grasshopper\extentreports-cucumber7-adapter\1.14.0\extentreports-cucumber7-adapter-1.14.0.jar;C:\Users\2327184\.m2\repository\tech\grasshopper\extent-pdf-report\2.12.0\extent-pdf-report-2.12.0.jar;C:\Users\2327184\.m2\repository\tech\grasshopper\cucumber-pdf-report\2.14.0\cucumber-pdf-report-2.14.0.jar;C:\Users\2327184\.m2\repository\org\apache\pdfbox\pdfbox\2.0.26\pdfbox-2.0.26.jar;C:\Users\2327184\.m2\repository\org\apache\pdfbox\fontbox\2.0.26\fontbox-2.0.26.jar;C:\Users\2327184\.m2\repository\org\knowm\xchart\xchart\3.8.0\xchart-3.8.0.jar;C:\Users\2327184\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\2327184\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\2327184\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\2327184\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\2327184\.m2\repository\tech\grasshopper\table-layout\1.5.1\table-layout-1.5.1.jar;C:\Users\2327184\.m2\repository\tech\grasshopper\rest-assured-cucumber-pdf-report\1.5.0\rest-assured-cucumber-pdf-report-1.5.0.jar;C:\Users\2327184\.m2\repository\org\jsoup\jsoup\1.15.3\jsoup-1.15.3.jar;C:\Users\2327184\.m2\repository\com\aventstack\klov-reporter\5.1.0\klov-reporter-5.1.0.jar;C:\Users\2327184\.m2\repository\org\mongodb\mongodb-driver\3.6.4\mongodb-driver-3.6.4.jar;C:\Users\2327184\.m2\repository\org\mongodb\mongodb-driver-core\3.6.4\mongodb-driver-core-3.6.4.jar;C:\Users\2327184\.m2\repository\org\mongodb\bson\3.6.4\bson-3.6.4.jar;C:\Users\2327184\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\2327184\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\2327184\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\2327184\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\2327184\.m2\repository\tech\grasshopper\htmlextentreporter\1.1.0\htmlextentreporter-1.1.0.jar;C:\Users\2327184\.m2\repository\tech\grasshopper\extent-excel-report\1.4.0\extent-excel-report-1.4.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\2327184\AppData\Local\Temp\surefire5011356099417170877\surefirebooter-20240416114607155_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\2327184\AppData\Local\Temp\surefire10416351465889343030\surefirebooter-20240416221449955_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+7"/>
@@ -58,23 +58,23 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="runScenario[&quot;Filter Web Development Courses by Level and Language&quot;, &quot;Searching and Filtering Web Development Courses&quot;](1)" classname="testRunner.TestRunner" time="136.774">
+  <testcase name="runScenario[&quot;Filter Web Development Courses by Level and Language&quot;, &quot;Searching and Filtering Web Development Courses&quot;](1)" classname="testRunner.TestRunner" time="68.551">
     <system-out><![CDATA[
 Scenario: Filter Web Development Courses by Level and Language # features/1_webcourses.feature:3
   Given the user is on the homepage of the Coursera website    # StepDefenition.webdev.the_user_is_on_the_homepage_of_the_Coursera_website()
 
-    Embedding Filter Web Development Courses by Level and Language [image/png 448858 bytes]
+    Embedding Filter Web Development Courses by Level and Language [image/png 929219 bytes]
 
   When the user searches for web development courses           # StepDefenition.webdev.the_user_searches_for_web_development_courses()
 
-    Embedding Filter Web Development Courses by Level and Language [image/png 378135 bytes]
+    Embedding Filter Web Development Courses by Level and Language [image/png 377919 bytes]
 
 courseName 1: Python for Data Science, AI & Development
 courseRating1: 4.6
 course duration: 25 hours (approximately)
   And the user clicks the first webcourse and get the details  # StepDefenition.webdev.the_user_clicks_the_first_webcourse_and_get_the_details()
 
-    Embedding Filter Web Development Courses by Level and Language [image/png 479937 bytes]
+    Embedding Filter Web Development Courses by Level and Language [image/png 511333 bytes]
 
 courseName 2: Meta Front-End Developer Professional Certificate
 courseRating2: 4.7
@@ -83,7 +83,7 @@ courseRating2:
 course duration: 
   And the user clicks the second webcourse and get the details # StepDefenition.webdev.the_user_clicks_the_second_webcourse_and_get_the_details()
 
-    Embedding Filter Web Development Courses by Level and Language [image/png 479937 bytes]
+    Embedding Filter Web Development Courses by Level and Language [image/png 511333 bytes]
 
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
@@ -91,19 +91,19 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Extract and display language and level information&quot;, &quot;Searching Language Learning and extracting details&quot;](2)" classname="testRunner.TestRunner" time="125.736">
+  <testcase name="runScenario[&quot;Extract and display language and level information&quot;, &quot;Searching Language Learning and extracting details&quot;](2)" classname="testRunner.TestRunner" time="129.412">
     <system-out><![CDATA[
 Scenario: Extract and display language and level information      # features/2_language_learning.feature:3
   Given the user is on the homepage                               # StepDefenition.languagecourses.the_user_is_on_the_homepage()
 
-    Embedding Extract and display language and level information [image/png 354714 bytes]
+    Embedding Extract and display language and level information [image/png 745915 bytes]
 
   When the user searches for language learning courses            # StepDefenition.languagecourses.the_user_searches_for_language_learning_courses()
 
-    Embedding Extract and display language and level information [image/png 280569 bytes]
+    Embedding Extract and display language and level information [image/png 297747 bytes]
 
-English (1,628)
-Spanish (1,097)
+English (1,634)
+Spanish (1,098)
 Arabic (1,014)
 French (1,002)
 Portuguese (Brazil) (993)
@@ -129,34 +129,34 @@ Hebrew (2)
 total languages: 24
   And they extract all available languages and their total counts # StepDefenition.languagecourses.they_extract_all_available_languages_and_their_total_counts()
 
-    Embedding Extract and display language and level information [image/png 280569 bytes]
+    Embedding Extract and display language and level information [image/png 310625 bytes]
 
 total count of levels:
-Beginner (878)
-Intermediate (752)
+Beginner (882)
+Intermediate (754)
 Advanced (78)
-Mixed (150)
+Mixed (151)
 total count of level: 4
   And they extract all different levels and their total counts    # StepDefenition.languagecourses.they_extract_all_different_levels_and_their_total_counts()
 
-    Embedding Extract and display language and level information [image/png 280569 bytes]
+    Embedding Extract and display language and level information [image/png 297747 bytes]
 
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Fill Form with invalid input and capture error message&quot;, &quot;Error Handling in Form Submission&quot;](3)" classname="testRunner.TestRunner" time="132.181">
+  <testcase name="runScenario[&quot;Fill Form with invalid input and capture error message&quot;, &quot;Error Handling in Form Submission&quot;](3)" classname="testRunner.TestRunner" time="62.872">
     <system-out><![CDATA[
 Scenario: Fill Form with invalid input and capture error message # features/3_enterprises.feature:3
   Given the user nagivate to Coursera page                       # StepDefenition.enterprises.the_user_nagivate_to_Coursera_page()
 
-    Embedding Fill Form with invalid input and capture error message [image/png 354726 bytes]
+    Embedding Fill Form with invalid input and capture error message [image/png 929270 bytes]
 
   When the user navigates to the Enterprise section              # StepDefenition.enterprises.the_user_navigates_to_the_Enterprise_section()
 
-    Embedding Fill Form with invalid input and capture error message [image/png 779139 bytes]
+    Embedding Fill Form with invalid input and capture error message [image/png 798264 bytes]
 
   And the user fills the Form with invalid email                 # StepDefenition.enterprises.the_user_fills_the_Form_with_invalid_email()
 
-    Embedding Fill Form with invalid input and capture error message [image/png 151396 bytes]
+    Embedding Fill Form with invalid input and capture error message [image/png 151607 bytes]
 
 Error Message: Invalid Input
   Then the user should capture and display the error message     # StepDefenition.enterprises.the_user_should_capture_and_display_the_error_message()
